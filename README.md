@@ -1,6 +1,4 @@
-# Academic Project Page Template
-This is an academic paper project page template.
-
+# Detecting cars using satellite imagery.
 
 Example project pages built using this template are:
 - https://www.vision.huji.ac.il/deepsim/
